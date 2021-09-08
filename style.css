@@ -1,0 +1,12 @@
+.card{
+    background-color: rgb(36, 48, 35);
+    height: 225px;
+    width: 500px;
+    padding: 8px;
+}
+.name{
+  font-family: 'Antic Slab', serif;
+}
+.first{
+    font-family: 'Inconsolata', monospace;
+}
